@@ -16,6 +16,12 @@ This project demonstrates a hand gesture recognition system developed using Goog
 - Custom-trained image classification model
 - Image-based gesture prediction
 
+## Documentation
+
+The complete project documentation is included in this repository.
+
+**Project Report:** `Hand_Gesture_Recognition_Report.pdf`
+
 ## Author
 
 Mohammed Faiz Shootariya
